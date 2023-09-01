@@ -1,4 +1,4 @@
-# Training-Free Neural Architecture Search
+# Training-Free Neural Architecture Search with Weighted Response Correlation Proxy
 
 ## Requirements
 You can use the following command to reproduce the environment:
