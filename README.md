@@ -6,9 +6,6 @@ You can use the following command to reproduce the environment:
 conda env create -f environment.yml
 ```
 
-## Pretrained models
-We will release the pre-trained models later.
-
 ## Architecture performance prediction
 To predict the architecture performance on NAS-BNench-101/201, run
 ```
