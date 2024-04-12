@@ -1,4 +1,4 @@
-# Training-Free Neural Architecture Search with Weighted Response Correlation Proxy
+# A Zero-Shot Neural Architecture Search with Weighted Response Correlation for Image Recognition
 
 ## Requirements
 You can use the following command to reproduce the environment:
